@@ -1,0 +1,8 @@
+F:\Creative Freelancers\git-live\LearningModels\bin\Release\netstandard2.0\LearningModels.deps.json
+F:\Creative Freelancers\git-live\LearningModels\bin\Release\netstandard2.0\LearningModels.dll
+F:\Creative Freelancers\git-live\LearningModels\bin\Release\netstandard2.0\LearningModels.pdb
+F:\Creative Freelancers\git-live\LearningModels\obj\Release\netstandard2.0\LearningModels.csprojAssemblyReference.cache
+F:\Creative Freelancers\git-live\LearningModels\obj\Release\netstandard2.0\LearningModels.AssemblyInfoInputs.cache
+F:\Creative Freelancers\git-live\LearningModels\obj\Release\netstandard2.0\LearningModels.AssemblyInfo.cs
+F:\Creative Freelancers\git-live\LearningModels\obj\Release\netstandard2.0\LearningModels.dll
+F:\Creative Freelancers\git-live\LearningModels\obj\Release\netstandard2.0\LearningModels.pdb
